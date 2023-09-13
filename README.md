@@ -1,5 +1,11 @@
 Open source - from people to people.
 
+## How to use
+
+`yarn add snowinmars/Leaflet-no-ukrainian`
+
+`npm i snowinmars/Leaflet-no-ukrainian`
+
 ---
 
 <img width="600" src="https://rawgit.com/Leaflet/Leaflet/main/src/images/logo.svg" alt="Leaflet" />
